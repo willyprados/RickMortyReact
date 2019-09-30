@@ -1,4 +1,16 @@
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://rickandmorty-xd.web.app/">
+    <img alt="Rick And Morty" src="https://rickandmortyapi.com/api/character/avatar/56.jpeg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Rick And Morty
+</h1>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This small project of a _Rick and Morty API_ is one of the 4 challenges in the **'Frontend Bootstrapping'** workshop. I created this project of 0. I made its HTML structure and CSS styles.  I decided on the design of the page based on the color combination of the mother page. The characters are called from the API through Javascript.
 
 ## Available Scripts
 
@@ -37,32 +49,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## 🚀 To view the website you can click on the link below
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://rickandmorty-xd.firebaseapp.com/">rickandmorty-xd.firebaseapp.com</a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🧐 Thanks for reading me. See you!
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
